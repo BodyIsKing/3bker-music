@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=
-game=Test
-stayinchannel=true
+owner=400955088052420610
+prefix=1
+game=1play | Special Server
+stayinchannel=false
 songinstatus=false
-token=NTMxODIxNTUyOTc1NzQwOTI5.DxThCQ.wjum6oJcXh_KhP45GtvXEwOlDq4
+tokenNTQwNDYxMjExNzc1NTMzMDU2.DzRvyg.P7sxF-f5Agt8fUEFm06jHd4LvSU
